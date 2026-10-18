@@ -8,7 +8,7 @@ Completed: 0
 Topics Covered: (✔️)
 
 ### A. Classes & Objects (Basics but CRITICAL)
-- [ ] 1. Create a Student class (name, rollNo, marks, function to calculate grade)
+- [✔️] 1. Create a Student class (name, rollNo, marks, function to calculate grade)
 - [ ] 2. Create a BankAccount class (deposit, withdraw, balance check)
 - [ ] 3. Create a Rectangle class (calculate area & perimeter)
 - [ ] 4. Create an Employee class (salary calculation with bonus)
